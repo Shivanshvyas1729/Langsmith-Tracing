@@ -1,0 +1,8 @@
+GITHUB  : https://github.com/d-hackmt/Pydantic-Logfire
+
+GROQ : https://console.groq.com/home
+
+GEMINI : https://aistudio.google.com/api-keys
+
+SERPER :  https://serper.dev/dashboard
+
