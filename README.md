@@ -192,6 +192,7 @@ result = agent.invoke(
     config={"recursion_limit": 10}
 )
 ```
+<img width="2502" height="1244" alt="image" src="https://github.com/user-attachments/assets/720502f6-6842-46c3-8660-f7825f355953" />
 
 ---
 
